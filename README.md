@@ -4,11 +4,11 @@ This repository contains the code for the paper "Path Based Hierarchical Cluster
 
 ## Installation
 
-The code for our method uses the Python 3.6.6 standard library, no outside packages are required to be installed. Simply extract the dataset archives in the datasets directory and run `python smict.py`
+The code for our method uses the Python 3.6.6 standard library, no outside packages are required to be installed. Simply extract the dataset archives in the datasets directory and run `python main.py`
 
 ## Runtime Instructions
 
-smict.py takes two optional command line arguments:
+main.py takes three optional command line arguments:
 
 | Parameter                 | Default       | Description   |	
 | :------------------------ |:-------------:| :-------------|
