@@ -1,0 +1,264 @@
+|--------------
+| CLUSTER TAG        : root
+| CLUSTER SUBJECT(S) : 
+|--------------
+	|--------------
+	| CLUSTER TAG        : film
+	| CLUSTER SUBJECT(S) : seven_swords shane some_girls_do spy_game
+	|--------------
+		|--------------
+		| CLUSTER TAG        : comedy
+		| CLUSTER SUBJECT(S) : schtonk scoop silverado smokey_and_the_bandit so_i_married_an_axe_murderer starting_over strange_brew
+		|--------------
+			|--------------
+			| CLUSTER TAG        : drama
+			| CLUSTER SUBJECT(S) : stardust_memories
+			|--------------
+				|--------------
+				| CLUSTER TAG        : black-and-white
+				| CLUSTER SUBJECT(S) : skippy sons_of_the_desert stalag_17
+				|--------------
+					|--------------
+					| CLUSTER TAG        : indie
+					| CLUSTER SUBJECT(S) : snowcake
+					|--------------
+						|--------------
+						| CLUSTER TAG        : silent_film
+						| CLUSTER SUBJECT(S) : sherlock_jr
+						|--------------
+					|--------------
+					| CLUSTER TAG        : spy
+					| CLUSTER SUBJECT(S) : secret_agent
+					|--------------
+						|--------------
+						| CLUSTER TAG        : psychological_thriller
+						| CLUSTER SUBJECT(S) : sabotage_1936
+						|--------------
+							|--------------
+							| CLUSTER TAG        : psycho-biddy
+							| CLUSTER SUBJECT(S) : strait-jacket
+							|--------------
+					|--------------
+					| CLUSTER TAG        : gangster
+					| CLUSTER SUBJECT(S) : snatch
+					|--------------
+						|--------------
+						| CLUSTER TAG        : neo-noir
+						| CLUSTER SUBJECT(S) : sin_city_2005
+						|--------------
+					|--------------
+					| CLUSTER TAG        : historical_drama
+					| CLUSTER SUBJECT(S) : seven_samurai
+					|--------------
+				|--------------
+				| CLUSTER TAG        : costume_drama
+				| CLUSTER SUBJECT(S) : shakespeare_in_love
+				|--------------
+				|--------------
+				| CLUSTER TAG        : romantic_comedy
+				| CLUSTER SUBJECT(S) : shallow_hal shes_having_a_baby sleepless_in_seattle sweet_home_alabama
+				|--------------
+					|--------------
+					| CLUSTER TAG        : sex_comedy
+					| CLUSTER SUBJECT(S) : some_like_it_hot
+					|--------------
+						|--------------
+						| CLUSTER TAG        : erotica
+						| CLUSTER SUBJECT(S) : secretary_2002
+						|--------------
+							|--------------
+							| CLUSTER TAG        : crime_thriller
+							| CLUSTER SUBJECT(S) : striptease_1996
+							|--------------
+				|--------------
+				| CLUSTER TAG        : coming_of_age
+				| CLUSTER SUBJECT(S) : saved sixteen_candles sleepover_2004
+				|--------------
+					|--------------
+					| CLUSTER TAG        : teen
+					| CLUSTER SUBJECT(S) : shes_all_that some_kind_of_wonderful super_bad
+					|--------------
+					|--------------
+					| CLUSTER TAG        : comedy-drama
+					| CLUSTER SUBJECT(S) : slc_punk
+					|--------------
+				|--------------
+				| CLUSTER TAG        : black_comedy
+				| CLUSTER SUBJECT(S) : swimming_with_sharks
+				|--------------
+				|--------------
+				| CLUSTER TAG        : documentary
+				| CLUSTER SUBJECT(S) : super_size_me
+				|--------------
+				|--------------
+				| CLUSTER TAG        : remake
+				| CLUSTER SUBJECT(S) : scent_of_a_woman
+				|--------------
+				|--------------
+				| CLUSTER TAG        : history
+				| CLUSTER SUBJECT(S) : spartacus_1960
+				|--------------
+				|--------------
+				| CLUSTER TAG        : cult
+				| CLUSTER SUBJECT(S) : sid_and_nancy
+				|--------------
+			|--------------
+			| CLUSTER TAG        : adventure
+			| CLUSTER SUBJECT(S) : surfs_up_2007
+			|--------------
+				|--------------
+				| CLUSTER TAG        : science_fiction
+				| CLUSTER SUBJECT(S) : sexmission spaceballs star_trek_iii_the_search_for_spock star_trek_the_motion_picture
+				|--------------
+					|--------------
+					| CLUSTER TAG        : action
+					| CLUSTER SUBJECT(S) : star_trek_generations
+					|--------------
+						|--------------
+						| CLUSTER TAG        : martial_arts
+						| CLUSTER SUBJECT(S) : shanghai_noon shaolin_soccer
+						|--------------
+							|--------------
+							| CLUSTER TAG        : wuxia
+							| CLUSTER SUBJECT(S) : swordsman_ii
+							|--------------
+						|--------------
+						| CLUSTER TAG        : time_travel
+						| CLUSTER SUBJECT(S) : star_trek_first_contact star_trek_iv_the_voyage_home
+						|--------------
+						|--------------
+						| CLUSTER TAG        : superhero
+						| CLUSTER SUBJECT(S) : spider-man_3
+						|--------------
+						|--------------
+						| CLUSTER TAG        : libraries_and_librarians
+						| CLUSTER SUBJECT(S) : soylent_green
+						|--------------
+					|--------------
+					| CLUSTER TAG        : thriller
+					| CLUSTER SUBJECT(S) : star_trek_ii_the_wrath_of_khan star_trek_nemesis star_trek_vi_the_undiscovered_country
+					|--------------
+						|--------------
+						| CLUSTER TAG        : mystery
+						| CLUSTER SUBJECT(S) : silver_streak solaris_1972
+						|--------------
+						|--------------
+						| CLUSTER TAG        : disaster
+						| CLUSTER SUBJECT(S) : sunshine_2007
+						|--------------
+					|--------------
+					| CLUSTER TAG        : fantasy
+					| CLUSTER SUBJECT(S) : star_wars_episode_iv_a_new_hope star_wars_episode_i_the_phantom_menace star_wars_episode_vi_return_of_the_jedi star_wars_episode_v_the_empire_strikes_back
+					|--------------
+						|--------------
+						| CLUSTER TAG        : tragedy
+						| CLUSTER SUBJECT(S) : star_wars_episode_iii_revenge_of_the_sith
+						|--------------
+						|--------------
+						| CLUSTER TAG        : space_opera
+						| CLUSTER SUBJECT(S) : star_wars_episode_ii_attack_of_the_clones
+						|--------------
+						|--------------
+						| CLUSTER TAG        : animation
+						| CLUSTER SUBJECT(S) : shrek_2 spirited_away
+						|--------------
+					|--------------
+					| CLUSTER TAG        : western
+					| CLUSTER SUBJECT(S) : serenity star_trek_v_the_final_frontier
+					|--------------
+					|--------------
+					| CLUSTER TAG        : anime
+					| CLUSTER SUBJECT(S) : slayers_the_motion_picture
+					|--------------
+						|--------------
+						| CLUSTER TAG        : steampunk
+						| CLUSTER SUBJECT(S) : steamboy
+						|--------------
+			|--------------
+			| CLUSTER TAG        : horror
+			| CLUSTER SUBJECT(S) : scooby_doo_2_monsters_unleashed
+			|--------------
+				|--------------
+				| CLUSTER TAG        : zombie
+				| CLUSTER SUBJECT(S) : shaun_of_the_dead
+				|--------------
+				|--------------
+				| CLUSTER TAG        : supernatural
+				| CLUSTER SUBJECT(S) : satanic silent_hill_2006
+				|--------------
+			|--------------
+			| CLUSTER TAG        : musical
+			| CLUSTER SUBJECT(S) : school_of_rock seven_brides_for_seven_brothers singin_in_the_rain south_park_bigger_longer_uncut
+			|--------------
+				|--------------
+				| CLUSTER TAG        : short_film
+				| CLUSTER SUBJECT(S) : simon_simon_1970 steamboat_willie
+				|--------------
+			|--------------
+			| CLUSTER TAG        : satire
+			| CLUSTER SUBJECT(S) : semi-tough series_7_the_contenders
+			|--------------
+			|--------------
+			| CLUSTER TAG        : family
+			| CLUSTER SUBJECT(S) : shenandoah_1965 spencers_mountain splash
+			|--------------
+				|--------------
+				| CLUSTER TAG        : computer_animation
+				| CLUSTER SUBJECT(S) : small_soldiers
+				|--------------
+					|--------------
+					| CLUSTER TAG        : children's
+					| CLUSTER SUBJECT(S) : shark_tale
+					|--------------
+			|--------------
+			| CLUSTER TAG        : buddy_film
+			| CLUSTER SUBJECT(S) : shanghai_knights starsky_hutch_2004 stripes swingers
+			|--------------
+			|--------------
+			| CLUSTER TAG        : parody
+			| CLUSTER SUBJECT(S) : scary_movie spies_like_us spy_hard
+			|--------------
+			|--------------
+			| CLUSTER TAG        : airplanes_and_airports
+			| CLUSTER SUBJECT(S) : soul_plane
+			|--------------
+			|--------------
+			| CLUSTER TAG        : christmas_movie
+			| CLUSTER SUBJECT(S) : scrooged
+			|--------------
+	|--------------
+	| CLUSTER TAG        : location
+	| CLUSTER SUBJECT(S) : 01z0vs 01z68l adelaide alameda albuquerque alexandria_virginia amarillo amsterdam_united_states anhui antibes antigonish asago_district_hyogo astoria_queens atlanta auckland bad_wiessee ballymena baltimore bayside_queens beatrice_nebraska beaumont beckenham bedford_new_hampshire belgravia bellefonte berkeley_california beverly_hills biblis birmingham birmingham_alabama blackburn boston_massachusetts brampton brantford_ontario bridgeport bridgeton_glasgow bristol brooklyn brownsville bucharest burbank burnaby bushwick_brooklyn calgary_alberta carnoustie carrollton_illinois cedar_rapids chevy_chase_maryland chicago chorzow cleveland_ohio cochinchina columbia columbus_ohio concord_california conifer crieff crouch_hill cumberland_rhode_island cuyahoga_falls dallas dix_hills dorking douglas_cork duncan_oklahoma ealing edmonton el_paso essex evanston fairfield fairport flushing_queens fort_collins freeport_pennsylvania glencoe glendale gloucester grand_island grayshott greenwich_village guangdong_province_china guangzhou guernsey hamilton_ontario hammersmith hampshire hanover_new_hampshire harlem_georgia hatfield_hertfordshire hazle_township highland_falls hoisington hokkaido hollywood holmer_green honey_grove honolulu hornell hot_springs houston huntsville_texas idar-oberstein indiana_pennsylvania ipoh israel jerusalem johnstown kagoshima_prefecture kansas_city_kansas katsushika_tokyo katy kaunas kenley keresley kherson kingston_upon_hull kirkby kita_tokyo knoxville krakow lake_tahoe laleham landstuhl lansing la_jolla lewes lewiston lincoln_united_kingdom little_rock liverpool livingston_new_jersey llanishen long_beach los_angeles louisville lower_east_side_manhattan lubbock luling lviv lynwood marietta marylebone melbourne_australia memphis_tennessee miami milwaukee minneapolis mirfield miyagi_prefecture modesto mogadishu monroe montreal morristown_united_states mount_airy nanaimo nashua nashville_tennessee navan newton_massachusetts new_brunswick_new_jersey new_cross_london_england new_orleans new_york new_york_county norristown oakland_california ofallon_illinois okayama_prefecture oklahoma_city oldham olney olsztyn ota_tokyo ottumwa oxnard palo_alto parkersburg pasadena penns_grove peoria peterborough_new_hampshire petersburg philadelphia phoenixville piqua_kansas pittsburgh plattsburgh point_pleasant_new_jersey pomona_california poole portland poznan qingdao queens radcliffe ranelagh redondo_beach regina_canada rochester rochester_minnesota roseville roswell rotorua royal_oak ruzomberok rye_new_york salt_lake_city santa_monica_california santurce_san_juan_puerto_rico san_antonio san_diego san_francisco scarborough scarborough_canada schenectady scottsdale semley sharonville shawnee_oklahoma sheffield sherman_oaks shreveport solihull south_bronx south_kensington stockton-on-tees sturmer_united_kingdom st_catharines_ontario st_louis_missouri sucha_beskidzka sunderland sydenham sydney syracuse_new_york taipei tallinn terre_haute the_bronx toowoomba toronto traverse_city tucson tulsa ulverston upminster uttum_east_frisia_germany vancouver_british_columbia vernal verona_new_jersey wallasey walters walton-on-thames waukesha waycross west_bromwich west_roxbury wichita wilmette wilmington winchester_indiana windsor_ontario winnetka winnipeg winter_park worthing wuhu wurzburg york york_pennsylvania
+	|--------------
+		|--------------
+		| CLUSTER TAG        : country
+		| CLUSTER SUBJECT(S) : 09pkq0 268 andorra anguilla antigua_and_barbuda argentina australia austria barbados belarus belgium belize benin bermuda bolivia botswana brunei burkina_faso burundi cambodia cameroon canada cayman_islands central_african_republic chad channel_islands chile china colombia comoros costa_rica cote_divoire cuba czech_republic dominica dominican_republic ecuador el_salvador england equatorial_guinea ethiopia federated_states_of_micronesia fiji france gabon germany german_democratic_republic ghana gibraltar grenada guatemala guinea guyana haiti holy_roman_empire honduras hong_kong india isle_of_man jamaica japan jersey kazakhstan kenya kingdom_of_great_britain kiribati korea kyrgyzstan laos lesotho liberia liechtenstein luxembourg madagascar malaysia mali malta marshall_islands mauritius mexico moldova monaco montserrat namibia nauru new_zealand nicaragua niger nigeria north_korea pakistan panama papua_new_guinea paraguay peru philippines pitcairn_islands poland puerto_rico republic_of_ireland republic_of_the_congo russia rwanda saint_kitts_and_nevis saint_lucia saint_vincent_and_the_grenadines samoa scotland second_polish_republic senegal seychelles sierra_leone solomon_islands south_africa south_georgia_and_the_south_sandwich_islands south_korea soviet_union spain sri_lanka swaziland switzerland taiwan tanzania territory_of_new_guinea territory_of_papua_and_new_guinea the_bahamas the_gambia togo trinidad_and_tobago turks_and_caicos_islands tuvalu uganda ukraine united_kingdom united_states united_states_virgin_islands uruguay vanuatu vatican_city wales west_germany zambia zimbabwe
+		|--------------
+		|--------------
+		| CLUSTER TAG        : city
+		| CLUSTER SUBJECT(S) : abidjan abuja accra adamstown_pitcairn_island addis_ababa andorra_la_vella antananarivo apia astana asuncion australian_capital_territory bamako bandar_seri_begawan bangui banjul basseterre beijing belmopan berlin berne bishkek bogota bonn brazzaville bridgetown brussels buenos_aires bujumbura canberra cardiff castries charlotte_amalie chisinau cockburn_town conakry dakar djibouti dodoma douglas_isle_of_man dublin edinburgh freetown funafuti gaborone georgetown_guyana george_town grytviken guatemala_city hamilton_bermuda harare havana honiara islamabad kampala kiev kigali kingston_jamaica kingstown kotte kuala_lumpur libreville lima lome london lusaka luxembourg_luxembourg madrid malabo managua manila maseru mbabane mexican_federal_district minsk monrovia montevideo moroni_comoros moscow N90624026185628986911 nairobi nassau ndjamena new_delhi niamey ottawa ouagadougou panama_city paris phnom_penh plymouth port-au-prince porto-novo port_louis port_moresby port_of_spain port_vila prague pretoria pyongyang quito roseau santiago_chile santo_domingo san_juan_puerto_rico san_salvador sealand seoul singapore south_tarawa st_georges st_johns_antigua_and_barbuda sucre suva tbilisi tegucigalpa the_valley_anguilla tokyo vaduz valletta victoria_seychelles vienna vientiane warsaw washington_united_states wellington windhoek yaounde
+		|--------------
+	|--------------
+	| CLUSTER TAG        : budget
+	| CLUSTER SUBJECT(S) : 01xpnvx 0k2xp5 0k2yzw 0k2zkf 0k2_4n 0k31ly 0k34tx 0k34zq 0k35fz 0k35p3 0k35xz 0k380q 0k38l1 0k38yk 0k39kc 0k39r5 0k3b36 0k3c3h 0k3dgq 0k3dj1 0k3gc_ 0k3hsf 0k3j9f 0k3kv9 0k3lc9 0k3l_4 0k3m6d 0k3nn4 0k3nph 0k3ny2 0k3pgl 0k3pjl 0k3qkl 0k3qln 0k3qmp 0k3qnt 0k3qpy 0k3qrd 0k3qs5 0k3qtz 0k3qw6 0k3qz8 0k3q_v 0k3r15 0k3r31 0k3r4l 0k3rs6 0k3w5m 0k3w6x 0k3yfv 0k3_lj 0k40f7 0k6f7t
+	|--------------
+	|--------------
+	| CLUSTER TAG        : language
+	| CLUSTER SUBJECT(S) : british_english cantonese czech english french german_language japanese korean_language polish russian silent_film spanish standard_cantonese standard_mandarin
+	|--------------
+	|--------------
+	| CLUSTER TAG        : actor
+	| CLUSTER SUBJECT(S) : 096mpjt 0k40bw aaron_johnson_1990 aidan_gillen alan_ford alan_ladd alan_rickman alan_tudyk alec_guinness alexa_vega alex_desert alfred_molina alicia_and_annie_sorell al_pacino amanda_plummer anatoly_solonitsyn andrew_schofield andy_griffith angelina_jolie angus_macinnes angus_scrimm annabeth_gish anna_faris anna_paquin anne_suzuki annie_potts anthony_lapaglia anthony_michael_hall armand_assante beata_tyszkiewicz benicio_del_toro ben_affleck ben_stiller bert_convy billy_dee_williams bill_erwin bill_hader bill_murray bill_pullman bobcat_goldthwait brad_pitt brandon_de_wilde brenda_fricker brent_spiner brian_dennehy brigitte_lin brooke_smith bruce_willis burt_reynolds buster_keaton callum_keith_rennie cameron_diaz candice_bergen carmen_electra carol_kane carrie-anne_moss carrie_fisher catherine_mccormack charles_durning charles_laughton charley_chase charlie_yeung charlotte_rampling charlton_heston chevy_chase chiwetel_ejiofor chloe_webb christiane_horbiger christopher_lee christopher_mintz_plasse chris_odonnell chuck_connors cillian_murphy cliff_curtis clive_owen colin_firth craig_sheffer cyd_charisse daliah_lavi daniel_stern_1957 danny_glover dan_aykroyd daphne_zuniga daryl_hannah dave_thomas david_hayman david_krumholtz david_prowse debbie_reynolds debby_bishop deborah_kara_unger deforest_kelley demi_moore dennis_farina desmond_tester diane_baker dody_goodman donald_oconnor donatas_banionis donna_dixon donna_hanover donnie_yen don_taylor_1920 dorothy_christy doug_mcclure duncan_chow dylan_moran eddie_murphy edward_g_robinson elias_koteas elizabeth_mcgovern emily_hampshire emily_stone erwin_connelly eugene_levy eva_amurri ewan_mcgregor fann_wong fenella_woolgar florence_desmond frances_sternhagen freddie_prinze_jr fred_ward gabrielle_anwar gary_oldman gates_mcfadden gene_kelly gene_wilder geoffrey_rush george_kennedy george_raft george_takei gina_torres gotz_george graham_stark gregory_smith gwyneth_paltrow harold_ramis harrison_ford henry_fonda hiroyuki_sanada howard_keel howard_st_john hugh_jackman ian_mcdiarmid ian_mcshane iman_abdulmajid jackie_chan jackie_cooper jackie_gleason jackie_searl jack_black jack_lemmon jack_palance james_cromwell james_doohan james_franco james_macarthur james_rebhorn james_russo james_spader james_stewart james_woods jami_gertz jane_elliot jane_powell jason_alexander jason_statham jay_mohr jean_arthur jean_hagen jean_simmons jeffrey_combs jeff_bridges jeff_richards_1922 jena_malone jennifer_lien jeremy_davies_1969 jerry_levine jerry_reed jerzy_stuhr jessica_alba jessica_harper jet_li jill_clayburgh joan_crawford joan_cusack jodelle_ferland joe_keaton joe_viterelli john_candy john_forsythe john_gielgud john_junkin john_larroquette john_lithgow john_loder_1898 jonah_hill jonathan_frakes jon_abrahams jon_favreau jon_heder joseph_cotten josh_lucas judge_reinhold judi_dench julia_foster juliette_lewis julie_andrews juri_jarvet justin_henry karen_allen kari_wahlgren kate_ashfield katharine_ross kathryn_mcguire katija_pevec kenny_baker kevin_bacon kevin_costner kevin_dunn kevin_hart kevin_hart_1980 kevin_kline kirk_douglas kirsten_dunst kris_kristofferson k_d_aubert larry_bryggman laurence_olivier laurie_holden lea_thompson leif_erickson leigh_taylor-young leonard_nimoy leon_lai lesley_ann_warren leslie_nielsen levar_burton liam_neeson lili_taylor lilli_palmer lil_kim lotte_lenya lucy_davis lucy_liu lynne_griffin macaulay_culkin madeleine_carroll mae_busch maggie_gyllenhaal manami_konishi mandy_moore marcia_gay_harden marc_platt_1913 marilyn_monroe mari_natsuki mark_hamill marlon_wayans marylouise_burke mary_stuart_masterson matthew_flint matthew_lillard matt_mattox maureen_ohara maurice_denham megumi_hayashibara meg_ryan mel_brooks michael_a_goorjian michael_cera michael_dorn michelle_reis michelle_yeoh mickey_rourke mika_boorem mike_henry mike_myers mike_white mimsy_farmer minoru_chiaki miranda_cosgrove mitzi_green miyu_irino molly_ringwald morgan_spurlock nancy_travis natalie_portman natalya_bondarchuk nathan_fillion ned_beatty ng_man_tat nick_frost nicollette_sheridan nikolai_grinko norman_rossington olgierd_lukaszewicz oliver_hardy osamu_saka oscar_homolka otto_preminger owen_wilson patrick_dempsey patrick_fugit patrick_mcgoohan patrick_stewart patrick_tse_yin patrick_wayne pat_obrien paul_dooley paul_walker peter_boyle peter_cushing peter_graves peter_lorre peter_ustinov philip_seymour_hoffman phil_hartman rachael_leigh_cook radha_mitchell reese_witherspoon renee_zellweger ricardo_montalban richard_johnson_1927 richard_pryor rick_moranis robert_de_niro robert_morley robert_patrick robert_redford robert_strauss_new_york robert_young rob_reiner rochelle_hudson ron_livingston rosamund_kwan rose_byrne rosie_odonnell roy_dotrice rumi_hiiragi sally_field samuel_l_jackson sam_huntington sarah_michelle_gellar sarah_silverman scarlett_johansson scott_glenn sean_bean sean_faris sean_young seiji_miyaguchi seth_green shawn_wayans shia_labeouf sigourney_weaver simon_pegg snoop_dogg stan_laurel stephen_chow stephen_dillane stephen_graham stephen_mchattie steve_forrest summer_phoenix susan_ward sylvia_sidney takashi_shimura tessho_genda thomas_haden_church tobey_maguire tom_arnold tom_hanks tony_curtis tony_roberts_1939 topher_grace toshiro_mifune trey_parker uwe_ochsenknecht van_heflin veronica_cartwright vince_vaughn ving_rhames walton_goggins walt_disney ward_crane william_holden william_shatner will_smith woody_allen xander_berkeley yasuko_sawaguchi zhao_wei zooey_deschanel
+	|--------------
+	|--------------
+	| CLUSTER TAG        : director
+	| CLUSTER SUBJECT(S) : 06x11r 0c279d akira_kurosawa alan_j_pakula alex_cox alfred_hitchcock andrei_tarkovsky andrew_adamson andrew_bergman andrew_mclaglen andy_tennant anthony_mann arthur_hiller ash_brannon billy_wilder bobby_farrelly brian_dannelly ching_siu-tung christophe_gans chris_buck conrad_vernon daniel_golden danny_boyle dan_minahan david_dobkin_1969 delmer_daves doug_liman edgar_wright fred_guiol george_stevens greg_mottola guy_ritchie hal_needham hayao_miyazaki helmut_dietl hiroshi_watanabe howard_deutch irvin_kershner ivan_reitman james_merendino jessy_terrero joe_dante joe_nussbaum john_hughes john_landis john_madden_1949 juliusz_machulski katsuhiro_otomo keenen_ivory_wayans kelly_asbury lawrence_kasdan marc_evans martin_brest michael_ritchie nicholas_meyer nora_ephron norman_taurog peter_farrelly quentin_tarantino raja_gosnell ralph_thomas richard_donner richard_fleischer richard_linklater richard_marquand rick_friedberg robert_iscove robert_rodriguez robert_wise rob_letterman ron_howard sam_raimi stanley_donen stanley_kubrick stanley_tong steven_shainberg stuart_baird thomas_schlamme todd_phillips tom_dey tony_scott tsui_hark ub_iwerks vicky_jenson william_a_seiter william_castle
+	|--------------
+		|--------------
+		| CLUSTER TAG        : character_creator
+		| CLUSTER SUBJECT(S) : david_michelinie frank_miller gene_l_coon gene_roddenberry george_lucas john_romita_sr joss_whedon stanislaw_lem stan_lee steve_ditko todd_mcfarlane
+		|--------------
+	|--------------
+	| CLUSTER TAG        : character
+	| CLUSTER SUBJECT(S) : 01_82p 0253r3 02nwctj 02nwmb2 02nwmcm 02nwmkg 02nwmmf 02nwmwj 02nwmwr 02nwmx5 02nwn1f 02nwn1n 02nwn1w 02nw_68 02sgjdt 02wgrnv 02wgrp3 02wgrpd 02_wz9b 02_wz9x 030r6gv 03bv81h 03xf0_w 04107rm 047tlfw 04h9z6y 04h9z74 04j6bvq 05v9g9m 05xvt_ 05ysx6f 05_52sv 07034yp 089b8r 0963zm5 0963zm_ 098f61x 098f624 09dvg35 09dzwyr 0b67jsl 0bfw2v3 0bfw2vs 0bfw2xf 0blgcrw 0bnlpqm 0bnlpr3 0bnlprc 0bnlpsd 0bnmr1k 0bnm_j2 0bnm_jb 0bnm_jn 0bnp2qr 0bnp2qy 0bnp2r0 0bnp2r3 0bnp2r6 0bnpdsn 0bnpdzm 0bnpfl1 0bnpgb5 0bnpgbz 0bnqc77 0bnqc85 0bnqm9v 0bnqmb3 0bnqmcm 0bqslby 0br0cds 0br0cfr 0br0ckj 0bthgtc 0bvbjw3 0bvbjwc 0bvbjwm 0bvbjww 0bvbm7m 0bvbm7w 0bvbm8j 0bvbm8s 0bvbm9v 0bvmjcq 0bvmjd0 0bx6ln 0ctlk akio_ogino alan_abernathy alex_hughes allen_bauer al_garcia andrew_hennings baron_papanoida beverly_crusher bobby_prinze burt_holloway capa capt_stillman charlie_simms chicken_joe chihiro_ogino chon_lin chon_wang christy_fimple cindy_campbell cody_maverick cosmo_brown count_dooku cousin_avi_denovitz cyrus_miles darth_vader david_dilbeck david_starsky detective_sergeant_ted_spencer dewey_finn don_lino don_lockwood drew_decker dr_snaut dwight_mccarthy earl_smooter eric_cartman erin_grant fogell foster_kane freddie_bauer geordi_la_forge grand_moff_tarkin han_solo hardy_jenns harry_osborn heroin_bob hikaru_sulu hilary_faye hoban_washburne husband_young_couple jack_rafferty jake_perry james_t_kirk janet_garrison jane_cook jean-luc_picard jefferson_jake_edward_briggs joe_strombel john_hartigan john_lydon kathi_seldon ken_hutch_hutchinson khan_noonien_singh kristy_briggs kris_kelvin lando_calrissian leonard_mccoy lina_lamont linda_freeman lord_farquaad lord_nelson_rathbone lord_wessex lt_col_frank_slade luke_skywalker mace_windu mackenzie_siler malcolm_reynolds marilyn_homberg martia marv mary_jane_watson mayor_kate_hennings melanie_carmichael mickey_oneil montgomery_scott mp_louise_cooper mrs_stimler mrs_sylvia_verloc nancy_callahan nancy_spungen ned_alleyn ned_schneebly obi-wan_kenobi officer_slater padme_amidala palpatine patty_di_marco phillip_niles_argyle phil_fimple princess_fiona princess_leia_organa princess_pei_pei pvt_elmo_blum qui-gon_jinn r2-d2 rosalie_mullins rosemary_shanahan roy_obannon russell_ziskey searle shorty_meeks sid_vicious sid_waterman sondra_pransky spider-man spock steve_shanahan stuart_abernathy summer_hathaway superintendent_talbot the_operative tom_bishop verloc viola_de_lesseps walter_kornbluth william_riker worf yubaba yuuko_ogino zack_siler zefram_cochrane zoe_washburne
+	|--------------
